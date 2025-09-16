@@ -1,0 +1,11 @@
+.venv/
+**/__pycache__/
+huggingface_models/
+checkpoints/
+checkpoints_sft/
+outputs/
+my_output_dir/
+mlruns/
+data/owt/
+data/TinyStories/
+tokenizers/
