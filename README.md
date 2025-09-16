@@ -66,13 +66,6 @@
 - [Stanford CS336](https://cs336.stanford.edu/)
 - [A fast tokenizer implementation](https://zhuanlan.zhihu.com/p/1920487178846344415)
 
-## 🫶支持者
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wingAGI/clean-llm&type=Date&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wingAGI/clean-llm&type=Date"/>
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wingAGI/clean-llm&type=Date"/>
-</picture>
 
 # 许可证
 
